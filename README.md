@@ -1,3 +1,3 @@
 This is a random quote machine for FreeCodeCamp's Front end libraries certification.
 
-Demo here: Soon
+Demo here: https://paulohfreire.github.io/random-quote-machine/
